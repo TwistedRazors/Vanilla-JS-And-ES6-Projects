@@ -1,1 +1,1 @@
-# Vanilla-JS-and-ES6-Projects
+# I will be creating my own interpretations of several JavaScript projects that have been created by John Smilga, a front-end web developer with projects featured at freeCodeCamp. Each of John's projects can be found here: www.johnsmilga.com. The video tutorial for these projects can be found here: https://www.youtube.com/watch?v=3PHXvlpOkf4.
